@@ -75,7 +75,7 @@ export default function CustomizedDialogs(props) {
 
           <div className="row">
             <div className="">
-               <img src={props.imgsrc} className="img-fluid rounded-start" alt={} />
+               <img src={props.imgsrc} className="img-fluid rounded-start" alt={props.name} />
             </div>
 
             <div className="">
