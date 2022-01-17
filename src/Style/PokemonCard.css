@@ -1,12 +1,14 @@
-*{box-sizing: border-box;}
+* {
+  box-sizing: border-box;
+}
 
-.pokcard{
+.pokcard {
   box-sizing: border-box;
   width: auto;
   float: left;
 }
 
-.pokbody{
+.pokbody {
   width: 280px;
   height: 170px;
   background-color: rgb(140, 70, 211);
@@ -15,29 +17,28 @@
   box-sizing: border-box;
 }
 
-.pokbody h3{
+.pokbody h3 {
   font-size: 20px;
 }
 
-.pokimg{
+.pokimg {
   padding: 10px;
 }
 
-.pokimg img{
+.pokimg img {
   width: 90%;
   height: 90%;
 }
 
-.poktype i{
+.poktype i {
   color: rgb(255, 253, 253);
   background-color: rgb(216, 135, 70);
   border-radius: 40px;
-  padding-left:10px;
+  padding-left: 10px;
   padding-right: 10px;
-
 }
 
-.pokeCardEach{
+.pokeCardEach {
   float: left;
   margin: 20px;
   box-sizing: border-box;
