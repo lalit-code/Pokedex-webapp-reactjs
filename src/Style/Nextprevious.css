@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+
+
+.nextprv{
+  background-color: rgb(243, 243, 253);
+  padding: 20px;
+  position:fixed;
+  bottom:0px;
+  width: 100%;
+}
+
+.btn-div{
+  display: flex;
+  justify-content:space-around; 
+
+}
+.btn-div button{
+  width: 30vh;
+}
+
+.btn-div button: hover{
+  cursor: pointer;
+}
+
+

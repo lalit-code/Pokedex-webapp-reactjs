@@ -1,0 +1,46 @@
+
+/* Top Hadder css */
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+.tophadder{
+  width: 100%;
+  background-color: blueviolet;
+ padding: 20px;
+  display: flex;
+  justify-content:space-around; 
+}
+
+
+
+
+
+.searchdiv input{
+  width: 70%;
+  padding:10px;
+  border-radius: 20px;
+  justify-items: center;
+}
+
+.pokdiv{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.notfound{
+  width: 100%;
+  text-align: center;
+}
+
+.notfound h1{
+  padding: 10px;
+}
+
+.notfound img{
+  height: 300px;
+}
