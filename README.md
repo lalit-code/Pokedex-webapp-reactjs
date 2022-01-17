@@ -1,3 +1,4 @@
-# react-ae3abx
+# POKEDEX Web App on REACT JS
+Developed using React, Bootstrap and Material UI
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ae3abx)
+<p align="center"><img src="pokedexVIEW.JPG" height=400px /></
